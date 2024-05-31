@@ -1,0 +1,1304 @@
+{
+    "verbs": [
+        {
+            "verb": "biti",
+            "translation": "to be",
+            "present_conjugation": [
+                "ja sam",
+                "ti si",
+                "on/ona/ono je",
+                "mi smo",
+                "vi ste",
+                "oni/one su"
+            ],
+            "example_sentence": "Ja sam student."
+        },
+        {
+            "verb": "imati",
+            "translation": "to have",
+            "present_conjugation": [
+                "ja imam",
+                "ti imaš",
+                "on/ona/ono ima",
+                "mi imamo",
+                "vi imate",
+                "oni/one imaju"
+            ],
+            "example_sentence": "Ona ima novac."
+        },
+        {
+            "verb": "raditi",
+            "translation": "to work",
+            "present_conjugation": [
+                "ja radim",
+                "ti radiš",
+                "on/ona/ono radi",
+                "mi radimo",
+                "vi radite",
+                "oni/one rade"
+            ],
+            "example_sentence": "Mi radimo zajedno."
+        },
+        {
+            "verb": "govoriti",
+            "translation": "to speak",
+            "present_conjugation": [
+                "ja govorim",
+                "ti govoriš",
+                "on/ona/ono govori",
+                "mi govorimo",
+                "vi govorite",
+                "oni/one govore"
+            ],
+            "example_sentence": "Oni govore engleski."
+        },
+        {
+            "verb": "videti",
+            "translation": "to see",
+            "present_conjugation": [
+                "ja vidim",
+                "ti vidiš",
+                "on/ona/ono vidi",
+                "mi vidimo",
+                "vi vidite",
+                "oni/one vide"
+            ],
+            "example_sentence": "Ti vidiš pticu."
+        },
+        {
+            "verb": "voleti",
+            "translation": "to love",
+            "present_conjugation": [
+                "ja volim",
+                "ti voliš",
+                "on/ona/ono voli",
+                "mi volimo",
+                "vi volite",
+                "oni/one vole"
+            ],
+            "example_sentence": "On voli svoju porodicu."
+        },
+        {
+            "verb": "živeti",
+            "translation": "to live",
+            "present_conjugation": [
+                "ja živim",
+                "ti živiš",
+                "on/ona/ono živi",
+                "mi živimo",
+                "vi živite",
+                "oni/one žive"
+            ],
+            "example_sentence": "Mi živimo u Beogradu."
+        },
+        {
+            "verb": "putovati",
+            "translation": "to travel",
+            "present_conjugation": [
+                "ja putujem",
+                "ti putuješ",
+                "on/ona/ono putuje",
+                "mi putujemo",
+                "vi putujete",
+                "oni/one putuju"
+            ],
+            "example_sentence": "Oni putuju svetom."
+        },
+        {
+            "verb": "jesti",
+            "translation": "to eat",
+            "present_conjugation": [
+                "ja jedem",
+                "ti jedeš",
+                "on/ona/ono jede",
+                "mi jedemo",
+                "vi jedete",
+                "oni/one jedu"
+            ],
+            "example_sentence": "Mi jedemo doručak."
+        },
+        {
+            "verb": "piti",
+            "translation": "to drink",
+            "present_conjugation": [
+                "ja pijem",
+                "ti piješ",
+                "on/ona/ono pije",
+                "mi pijemo",
+                "vi pijete",
+                "oni/one piju"
+            ],
+            "example_sentence": "Ti piješ vodu."
+        },
+        {
+            "verb": "znati",
+            "translation": "to know",
+            "present_conjugation": [
+                "ja znam",
+                "ti znaš",
+                "on/ona/ono zna",
+                "mi znamo",
+                "vi znate",
+                "oni/one znaju"
+            ],
+            "example_sentence": "On zna odgovor."
+        },
+        {
+            "verb": "čitati",
+            "translation": "to read",
+            "present_conjugation": [
+                "ja čitam",
+                "ti čitaš",
+                "on/ona/ono čita",
+                "mi čitamo",
+                "vi čitate",
+                "oni/one čitaju"
+            ],
+            "example_sentence": "Mi čitamo knjige."
+        },
+        {
+            "verb": "pisati",
+            "translation": "to write",
+            "present_conjugation": [
+                "ja pišem",
+                "ti pišeš",
+                "on/ona/ono piše",
+                "mi pišemo",
+                "vi pišete",
+                "oni/one pišu"
+            ],
+            "example_sentence": "Ona piše pismo."
+        },
+        {
+            "verb": "dolaziti",
+            "translation": "to come",
+            "present_conjugation": [
+                "ja dolazim",
+                "ti dolaziš",
+                "on/ona/ono dolazi",
+                "mi dolazimo",
+                "vi dolazite",
+                "oni/one dolaze"
+            ],
+            "example_sentence": "Mi dolazimo kasno."
+        },
+        {
+            "verb": "ići",
+            "translation": "to go",
+            "present_conjugation": [
+                "ja idem",
+                "ti ideš",
+                "on/ona/ono ide",
+                "mi idemo",
+                "vi idete",
+                "oni/one idu"
+            ],
+            "example_sentence": "Ti ideš u školu."
+        },
+        {
+            "verb": "spavati",
+            "translation": "to sleep",
+            "present_conjugation": [
+                "ja spavam",
+                "ti spavaš",
+                "on/ona/ono spava",
+                "mi spavamo",
+                "vi spavate",
+                "oni/one spavaju"
+            ],
+            "example_sentence": "Oni spavaju duboko."
+        },
+        {
+            "verb": "gledati",
+            "translation": "to watch",
+            "present_conjugation": [
+                "ja gledam",
+                "ti gledaš",
+                "on/ona/ono gleda",
+                "mi gledamo",
+                "vi gledate",
+                "oni/one gledaju"
+            ],
+            "example_sentence": "Ti gledaš televiziju."
+        },
+        {
+            "verb": "slušati",
+            "translation": "to listen",
+            "present_conjugation": [
+                "ja slušam",
+                "ti slušaš",
+                "on/ona/ono sluša",
+                "mi slušamo",
+                "vi slušate",
+                "oni/one slušaju"
+            ],
+            "example_sentence": "Mi slušamo muziku."
+        },
+        {
+            "verb": "trčati",
+            "translation": "to run",
+            "present_conjugation": [
+                "ja trčim",
+                "ti trčiš",
+                "on/ona/ono trči",
+                "mi trčimo",
+                "vi trčite",
+                "oni/one trče"
+            ],
+            "example_sentence": "Oni trče brzo."
+        },
+        {
+            "verb": "učiti",
+            "translation": "to learn",
+            "present_conjugation": [
+                "ja učim",
+                "ti učiš",
+                "on/ona/ono uči",
+                "mi učimo",
+                "vi učite",
+                "oni/one uče"
+            ],
+            "example_sentence": "Ona uči strane jezike."
+        },
+        {
+            "verb": "tražiti",
+            "translation": "to search",
+            "present_conjugation": [
+                "ja tražim",
+                "ti tražiš",
+                "on/ona/ono traži",
+                "mi tražimo",
+                "vi tražite",
+                "oni/one traže"
+            ],
+            "example_sentence": "Mi tražimo izgubljeni ključ."
+        },
+        {
+            "verb": "razmišljati",
+            "translation": "to think",
+            "present_conjugation": [
+                "ja razmišljam",
+                "ti razmišljaš",
+                "on/ona/ono razmišlja",
+                "mi razmišljamo",
+                "vi razmišljate",
+                "oni/one razmišljaju"
+            ],
+            "example_sentence": "Ja razmišljam o budućnosti."
+        },
+        {
+            "verb": "voziti",
+            "translation": "to drive",
+            "present_conjugation": [
+                "ja vozim",
+                "ti voziš",
+                "on/ona/ono vozi",
+                "mi vozimo",
+                "vi vozite",
+                "oni/one voze"
+            ],
+            "example_sentence": "Mi vozimo auto."
+        },
+        {
+            "verb": "leteti",
+            "translation": "to fly",
+            "present_conjugation": [
+                "ja letim",
+                "ti letiš",
+                "on/ona/ono leti",
+                "mi letimo",
+                "vi letite",
+                "oni/one lete"
+            ],
+            "example_sentence": "Ptice lete visoko."
+        },
+        {
+            "verb": "pevati",
+            "translation": "to sing",
+            "present_conjugation": [
+                "ja pevam",
+                "ti pevaš",
+                "on/ona/ono peva",
+                "mi pevamo",
+                "vi pevate",
+                "oni/one pevaju"
+            ],
+            "example_sentence": "Ona peva prelepo."
+        },
+        {
+            "verb": "plakati",
+            "translation": "to cry",
+            "present_conjugation": [
+                "ja plačem",
+                "ti plačeš",
+                "on/ona/ono plače",
+                "mi plačemo",
+                "vi plačete",
+                "oni/one plaču"
+            ],
+            "example_sentence": "Dečko plače od sreće."
+        },
+        {
+            "verb": "piti",
+            "translation": "to drink",
+            "present_conjugation": [
+                "ja pijem",
+                "ti piješ",
+                "on/ona/ono pije",
+                "mi pijemo",
+                "vi pijete",
+                "oni/one piju"
+            ],
+            "example_sentence": "Oni piju sok."
+        },
+        {
+            "verb": "nositi",
+            "translation": "to carry",
+            "present_conjugation": [
+                "ja nosim",
+                "ti nosiš",
+                "on/ona/ono nosi",
+                "mi nosimo",
+                "vi nosite",
+                "oni/one nose"
+            ],
+            "example_sentence": "Mi nosimo torbu."
+        },
+        {
+            "verb": "žuriti",
+            "translation": "to hurry",
+            "present_conjugation": [
+                "ja žurim",
+                "ti žuriš",
+                "on/ona/ono žuri",
+                "mi žurimo",
+                "vi žurite",
+                "oni/one žure"
+            ],
+            "example_sentence": "Morate žuriti na sastanak."
+        },
+        {
+            "verb": "razgovarati",
+            "translation": "to talk",
+            "present_conjugation": [
+                "ja razgovaram",
+                "ti razgovaraš",
+                "on/ona/ono razgovara",
+                "mi razgovaramo",
+                "vi razgovarate",
+                "oni/one razgovaraju"
+            ],
+            "example_sentence": "Mi razgovaramo o poslu."
+        },
+        {
+            "verb": "čekati",
+            "translation": "to wait",
+            "present_conjugation": [
+                "ja čekam",
+                "ti čekaš",
+                "on/ona/ono čeka",
+                "mi čekamo",
+                "vi čekate",
+                "oni/one čekaju"
+            ],
+            "example_sentence": "Oni čekaju na autobus."
+        },
+        {
+            "verb": "sanjati",
+            "translation": "to dream",
+            "present_conjugation": [
+                "ja sanjam",
+                "ti sanjaš",
+                "on/ona/ono sanja",
+                "mi sanjamo",
+                "vi sanjate",
+                "oni/one sanjaju"
+            ],
+            "example_sentence": "Ja sanjam o putovanju."
+        },
+        {
+            "verb": "pomagati",
+            "translation": "to help",
+            "present_conjugation": [
+                "ja pomažem",
+                "ti pomažeš",
+                "on/ona/ono pomaže",
+                "mi pomažemo",
+                "vi pomažete",
+                "oni/one pomažu"
+            ],
+            "example_sentence": "Ti pomažeš ljudima."
+        },
+        {
+            "verb": "smejati se",
+            "translation": "to laugh",
+            "present_conjugation": [
+                "ja se smejem",
+                "ti se smeješ",
+                "on/ona/ono se smeje",
+                "mi se smejemo",
+                "vi se smejete",
+                "oni/one se smeju"
+            ],
+            "example_sentence": "Mi se smejemo šali."
+        },
+        {
+            "verb": "razumeti",
+            "translation": "to understand",
+            "present_conjugation": [
+                "ja razumem",
+                "ti razumeš",
+                "on/ona/ono razume",
+                "mi razumemo",
+                "vi razumete",
+                "oni/one razumeju"
+            ],
+            "example_sentence": "Ja razumem ovu lekciju."
+        },
+        {
+            "verb": "dopasti se",
+            "translation": "to like (something)",
+            "present_conjugation": [
+                "ja mi se dopada",
+                "ti ti se dopadaš",
+                "on/ona/ono se dopada",
+                "mi nam se dopadamo",
+                "vi vam se dopadate",
+                "oni/one im se dopadaju"
+            ],
+            "example_sentence": "Ova knjiga mi se dopada."
+        },
+        {
+            "verb": "prestati",
+            "translation": "to stop",
+            "present_conjugation": [
+                "ja prestajem",
+                "ti prestaješ",
+                "on/ona/ono prestaje",
+                "mi prestajemo",
+                "vi prestajete",
+                "oni/one prestaju"
+            ],
+            "example_sentence": "Prestani da brineš."
+        },
+        {
+            "verb": "sresti",
+            "translation": "to meet",
+            "present_conjugation": [
+                "ja srećem",
+                "ti srećeš",
+                "on/ona/ono sreće",
+                "mi srećemo",
+                "vi srećete",
+                "oni/one sreću"
+            ],
+            "example_sentence": "Sreli smo se u parku."
+        },
+        {
+            "verb": "stići",
+            "translation": "to arrive",
+            "present_conjugation": [
+                "ja stižem",
+                "ti stižeš",
+                "on/ona/ono stiže",
+                "mi stižemo",
+                "vi stižete",
+                "oni/one stižu"
+            ],
+            "example_sentence": "Oni stižu za pet minuta."
+        },
+        {
+            "verb": "plesati",
+            "translation": "to dance",
+            "present_conjugation": [
+                "ja plešem",
+                "ti plešeš",
+                "on/ona/ono pleše",
+                "mi plešemo",
+                "vi plešete",
+                "oni/one plešu"
+            ],
+            "example_sentence": "Mi plešemo na zabavi."
+        },
+        {
+            "verb": "praviti",
+            "translation": "to make",
+            "present_conjugation": [
+                "ja pravim",
+                "ti praviš",
+                "on/ona/ono pravi",
+                "mi pravimo",
+                "vi pravite",
+                "oni/one prave"
+            ],
+            "example_sentence": "Oni prave kolače."
+        },
+        {
+            "verb": "zvati",
+            "translation": "to call",
+            "present_conjugation": [
+                "ja zovem",
+                "ti zoveš",
+                "on/ona/ono zove",
+                "mi zovemo",
+                "vi zovete",
+                "oni/one zovu"
+            ],
+            "example_sentence": "Ti zoveš svoju prijateljicu."
+        },
+        {
+            "verb": "doći",
+            "translation": "to come",
+            "present_conjugation": [
+                "ja dođem",
+                "ti dođeš",
+                "on/ona/ono dođe",
+                "mi dođemo",
+                "vi dođete",
+                "oni/one dođu"
+            ],
+            "example_sentence": "Oni dođu na vreme."
+        },
+        {
+            "verb": "smeštati",
+            "translation": "to accommodate",
+            "present_conjugation": [
+                "ja smeštam",
+                "ti smeštaš",
+                "on/ona/ono smešta",
+                "mi smeštamo",
+                "vi smeštate",
+                "oni/one smeštaju"
+            ],
+            "example_sentence": "Hotel smešta goste."
+        },
+        {
+            "verb": "učiti se",
+            "translation": "to study",
+            "present_conjugation": [
+                "ja se učim",
+                "ti se učiš",
+                "on/ona/ono se uči",
+                "mi se učimo",
+                "vi se učite",
+                "oni/one se uče"
+            ],
+            "example_sentence": "Studiram medicinu."
+        },
+        {
+            "verb": "praviti se",
+            "translation": "to pretend",
+            "present_conjugation": [
+                "ja se pravim",
+                "ti se praviš",
+                "on/ona/ono se pravi",
+                "mi se pravimo",
+                "vi se pravite",
+                "oni/one se prave"
+            ],
+            "example_sentence": "Ona se pravi da spava."
+        },
+        {
+            "verb": "odgovarati",
+            "translation": "to fit",
+            "present_conjugation": [
+                "ja odgovaram",
+                "ti odgovaraš",
+                "on/ona/ono odgovara",
+                "mi odgovaramo",
+                "vi odgovarate",
+                "oni/one odgovaraju"
+            ],
+            "example_sentence": "Ova haljina mi odgovara."
+        },
+        {
+            "verb": "voziti se",
+            "translation": "to ride",
+            "present_conjugation": [
+                "ja se vozim",
+                "ti se voziš",
+                "on/ona/ono se vozi",
+                "mi se vozimo",
+                "vi se vozite",
+                "oni/one se voze"
+            ],
+            "example_sentence": "Deca se voze biciklima."
+        },
+        {
+            "verb": "otvarati",
+            "translation": "to open",
+            "present_conjugation": [
+                "ja otvaram",
+                "ti otvaraš",
+                "on/ona/ono otvara",
+                "mi otvaramo",
+                "vi otvarate",
+                "oni/one otvaraju"
+            ],
+            "example_sentence": "Otvaram prozor."
+        },
+        {
+            "verb": "dobiti",
+            "translation": "to get",
+            "present_conjugation": [
+                "ja dobijam",
+                "ti dobijaš",
+                "on/ona/ono dobija",
+                "mi dobijamo",
+                "vi dobijate",
+                "oni/one dobijaju"
+            ],
+            "example_sentence": "Dobio sam poklon."
+        },
+        {
+            "verb": "smeštati se",
+            "translation": "to fit in",
+            "present_conjugation": [
+                "ja se smeštam",
+                "ti se smeštaš",
+                "on/ona/ono se smešta",
+                "mi se smeštamo",
+                "vi se smeštate",
+                "oni/one se smeštaju"
+            ],
+            "example_sentence": "Trudim se da se uklopim."
+        },
+        {
+            "verb": "pričati",
+            "translation": "to talk",
+            "present_conjugation": [
+                "ja pričam",
+                "ti pričaš",
+                "on/ona/ono priča",
+                "mi pričamo",
+                "vi pričate",
+                "oni/one pričaju"
+            ],
+            "example_sentence": "Pričam sa kolegom."
+        },
+        {
+            "verb": "zamišljati",
+            "translation": "to imagine",
+            "present_conjugation": [
+                "ja zamišljam",
+                "ti zamišljaš",
+                "on/ona/ono zamišlja",
+                "mi zamišljamo",
+                "vi zamišljate",
+                "oni/one zamišljaju"
+            ],
+            "example_sentence": "Deca vole da zamišljaju avanture."
+        },
+        {
+            "verb": "truditi se",
+            "translation": "to make an effort",
+            "present_conjugation": [
+                "ja se trudim",
+                "ti se trudiš",
+                "on/ona/ono se trudi",
+                "mi se trudimo",
+                "vi se trudite",
+                "oni/one se trude"
+            ],
+            "example_sentence": "Trudim se da budem bolji svaki dan."
+        },
+        {
+            "verb": "dozvoljavati",
+            "translation": "to allow",
+            "present_conjugation": [
+                "ja dozvoljavam",
+                "ti dozvoljavaš",
+                "on/ona/ono dozvoljava",
+                "mi dozvoljavamo",
+                "vi dozvoljavate",
+                "oni/one dozvoljavaju"
+            ],
+            "example_sentence": "Roditelji dozvoljavaju deci da igraju video igre."
+        },
+        {
+            "verb": "plašiti se",
+            "translation": "to be afraid",
+            "present_conjugation": [
+                "ja se plašim",
+                "ti se plašiš",
+                "on/ona/ono se plaši",
+                "mi se plašimo",
+                "vi se plašite",
+                "oni/one se plaše"
+            ],
+            "example_sentence": "On se plaši mraka."
+        },
+        {
+            "verb": "nastaviti",
+            "translation": "to continue",
+            "present_conjugation": [
+                "ja nastavljam",
+                "ti nastavljaš",
+                "on/ona/ono nastavlja",
+                "mi nastavljamo",
+                "vi nastavljate",
+                "oni/one nastavljaju"
+            ],
+            "example_sentence": "Nastavljamo putovanje."
+        },
+        {
+            "verb": "pogoditi",
+            "translation": "to hit",
+            "present_conjugation": [
+                "ja pogodim",
+                "ti pogodiš",
+                "on/ona/ono pogodi",
+                "mi pogodimo",
+                "vi pogodite",
+                "oni/one pogode"
+            ],
+            "example_sentence": "Strelac pogodi metu."
+        },
+        {
+            "verb": "voditi",
+            "translation": "to lead",
+            "present_conjugation": [
+                "ja vodim",
+                "ti vodiš",
+                "on/ona/ono vodi",
+                "mi vodimo",
+                "vi vodite",
+                "oni/one vode"
+            ],
+            "example_sentence": "On vodi tim."
+        },
+        {
+            "verb": "oblačiti se",
+            "translation": "to dress",
+            "present_conjugation": [
+                "ja se oblačim",
+                "ti se oblačiš",
+                "on/ona/ono se oblači",
+                "mi se oblačimo",
+                "vi se oblačite",
+                "oni/one se oblače"
+            ],
+            "example_sentence": "Spremam se i oblačim za posao."
+        },
+        {
+            "verb": "šetati",
+            "translation": "to walk",
+            "present_conjugation": [
+                "ja šetam",
+                "ti šetaš",
+                "on/ona/ono šeta",
+                "mi šetamo",
+                "vi šetate",
+                "oni/one šetaju"
+            ],
+            "example_sentence": "Šetam se parkom svakog jutra."
+        },
+        {
+            "verb": "razgovarati se",
+            "translation": "to chat",
+            "present_conjugation": [
+                "ja se razgovaram",
+                "ti se razgovaraš",
+                "on/ona/ono se razgovara",
+                "mi se razgovaramo",
+                "vi se razgovarate",
+                "oni/one se razgovaraju"
+            ],
+            "example_sentence": "Razgovaramo se sa starim prijateljima."
+        },
+        {
+            "verb": "pridružiti se",
+            "translation": "to join",
+            "present_conjugation": [
+                "ja se pridružujem",
+                "ti se pridružuješ",
+                "on/ona/ono se pridružuje",
+                "mi se pridružujemo",
+                "vi se pridružujete",
+                "oni/one se pridružuju"
+            ],
+            "example_sentence": "Odlučio sam se pridružiti timu."
+        },
+        {
+            "verb": "završiti",
+            "translation": "to finish",
+            "present_conjugation": [
+                "ja završavam",
+                "ti završavaš",
+                "on/ona/ono završava",
+                "mi završavamo",
+                "vi završavate",
+                "oni/one završavaju"
+            ],
+            "example_sentence": "Završavam svoj posao."
+        },
+        {
+            "verb": "pomisliti",
+            "translation": "to think",
+            "present_conjugation": [
+                "ja pomislim",
+                "ti pomisliš",
+                "on/ona/ono pomisli",
+                "mi pomislimo",
+                "vi pomislite",
+                "oni/one pomisle"
+            ],
+            "example_sentence": "Pomislio sam na tebe."
+        },
+        {
+            "verb": "zamisliti",
+            "translation": "to imagine",
+            "present_conjugation": [
+                "ja zamislim",
+                "ti zamisliš",
+                "on/ona/ono zamisli",
+                "mi zamislimo",
+                "vi zamislite",
+                "oni/one zamisle"
+            ],
+            "example_sentence": "Zamislio sam čaroban svet."
+        },
+        {
+            "verb": "otkriti",
+            "translation": "to discover",
+            "present_conjugation": [
+                "ja otkrivam",
+                "ti otkrivaš",
+                "on/ona/ono otkriva",
+                "mi otkrivamo",
+                "vi otkrivate",
+                "oni/one otkrivaju"
+            ],
+            "example_sentence": "Otkrio sam tajnu."
+        },
+        {
+            "verb": "primiti",
+            "translation": "to receive",
+            "present_conjugation": [
+                "ja primam",
+                "ti primaš",
+                "on/ona/ono prima",
+                "mi primamo",
+                "vi primate",
+                "oni/one primaju"
+            ],
+            "example_sentence": "Primio sam pismo."
+        },
+        {
+            "verb": "sresti se",
+            "translation": "to meet (each other)",
+            "present_conjugation": [
+                "ja se sretnem",
+                "ti se sretneš",
+                "on/ona/ono se sretne",
+                "mi se sretnemo",
+                "vi se sretnete",
+                "oni/one se sretnu"
+            ],
+            "example_sentence": "Sretneš se sa starim prijateljem."
+        },
+        {
+            "verb": "doći do",
+            "translation": "to reach",
+            "present_conjugation": [
+                "ja dođem do",
+                "ti dođeš do",
+                "on/ona/ono dođe do",
+                "mi dođemo do",
+                "vi dođete do",
+                "oni/one dođu do"
+            ],
+            "example_sentence": "Konačno sam došao do rešenja."
+        },
+        {
+            "verb": "izgubiti",
+            "translation": "to lose",
+            "present_conjugation": [
+                "ja izgubim",
+                "ti izgubiš",
+                "on/ona/ono izgubi",
+                "mi izgubimo",
+                "vi izgubite",
+                "oni/one izgube"
+            ],
+            "example_sentence": "Nisam želeo izgubiti tu igru."
+        },
+        {
+            "verb": "vratiti",
+            "translation": "to return",
+            "present_conjugation": [
+                "ja vratim",
+                "ti vratiš",
+                "on/ona/ono vrati",
+                "mi vratimo",
+                "vi vratite",
+                "oni/one vrate"
+            ],
+            "example_sentence": "Sutra ću vratiti knjigu u biblioteku."
+        },
+        {
+            "verb": "zaboraviti",
+            "translation": "to forget",
+            "present_conjugation": [
+                "ja zaboravim",
+                "ti zaboraviš",
+                "on/ona/ono zaboravi",
+                "mi zaboravimo",
+                "vi zaboravite",
+                "oni/one zaborave"
+            ],
+            "example_sentence": "Ne želim zaboraviti tvoj rođendan."
+        },
+        {
+            "verb": "početi",
+            "translation": "to begin",
+            "present_conjugation": [
+                "ja počnem",
+                "ti počneš",
+                "on/ona/ono počne",
+                "mi počnemo",
+                "vi počnete",
+                "oni/one počnu"
+            ],
+            "example_sentence": "Počnemo sutra sa radom na projektu."
+        },
+        {
+            "verb": "smetati",
+            "translation": "to disturb",
+            "present_conjugation": [
+                "ja smetam",
+                "ti smetaš",
+                "on/ona/ono smeta",
+                "mi smetamo",
+                "vi smetate",
+                "oni/one smetaju"
+            ],
+            "example_sentence": "Molim te, ne smetaj mi dok radim."
+        },
+        {
+            "verb": "naručiti",
+            "translation": "to order",
+            "present_conjugation": [
+                "ja naručim",
+                "ti naručiš",
+                "on/ona/ono naruči",
+                "mi naručimo",
+                "vi naručite",
+                "oni/one naruče"
+            ],
+            "example_sentence": "Naručiću picu za večeru."
+        },
+        {
+            "verb": "zamoliti",
+            "translation": "to ask (for a favor)",
+            "present_conjugation": [
+                "ja zamolim",
+                "ti zamoliš",
+                "on/ona/ono zamoli",
+                "mi zamolimo",
+                "vi zamolite",
+                "oni/one zamole"
+            ],
+            "example_sentence": "Molim te, možeš li mi pomoći?"
+        },
+        {
+            "verb": "izdati",
+            "translation": "to betray",
+            "present_conjugation": [
+                "ja izdam",
+                "ti izdaš",
+                "on/ona/ono izda",
+                "mi izdamo",
+                "vi izdate",
+                "oni/one izdaju"
+            ],
+            "example_sentence": "Nikada ne bih izdao svoje prijatelje."
+        },
+        {
+            "verb": "nasmejati se",
+            "translation": "to smile",
+            "present_conjugation": [
+                "ja se nasmejem",
+                "ti se nasmeješ",
+                "on/ona/ono se nasmeje",
+                "mi se nasmejemo",
+                "vi se nasmejete",
+                "oni/one se nasmeju"
+            ],
+            "example_sentence": "Kada me pogledaš, uvek se nasmejem."
+        },
+        {
+            "verb": "upisati",
+            "translation": "to enroll",
+            "present_conjugation": [
+                "ja upišem",
+                "ti upišeš",
+                "on/ona/ono upiše",
+                "mi upišemo",
+                "vi upišete",
+                "oni/one upišu"
+            ],
+            "example_sentence": "Planiram upisati kurs španskog jezika."
+        },
+        {
+            "verb": "izabrati",
+            "translation": "to choose",
+            "present_conjugation": [
+                "ja izaberem",
+                "ti izabereš",
+                "on/ona/ono izabere",
+                "mi izaberemo",
+                "vi izaberete",
+                "oni/one izaberu"
+            ],
+            "example_sentence": "Izabrao sam najbolju opciju."
+        },
+        {
+            "verb": "suditi",
+            "translation": "to judge",
+            "present_conjugation": [
+                "ja sudim",
+                "ti sudiš",
+                "on/ona/ono sudi",
+                "mi sudimo",
+                "vi sudite",
+                "oni/one sude"
+            ],
+            "example_sentence": "Sudimo po zakonu."
+        },
+        {
+            "verb": "pratiti",
+            "translation": "to follow",
+            "present_conjugation": [
+                "ja pratim",
+                "ti pratiš",
+                "on/ona/ono prati",
+                "mi pratimo",
+                "vi pratite",
+                "oni/one prate"
+            ],
+            "example_sentence": "Pratim te na društvenim mrežama."
+        },
+        {
+            "verb": "služiti",
+            "translation": "to serve",
+            "present_conjugation": [
+                "ja služim",
+                "ti služiš",
+                "on/ona/ono služi",
+                "mi služimo",
+                "vi služite",
+                "oni/one služe"
+            ],
+            "example_sentence": "Konobar služi goste u restoranu."
+        },
+        {
+            "verb": "pronaći",
+            "translation": "to find",
+            "present_conjugation": [
+                "ja pronađem",
+                "ti pronađeš",
+                "on/ona/ono pronađe",
+                "mi pronađemo",
+                "vi pronađete",
+                "oni/one pronađu"
+            ],
+            "example_sentence": "Napokon sam pronašao ključeve."
+        },
+        {
+            "verb": "promeniti",
+            "translation": "to change",
+            "present_conjugation": [
+                "ja promenim",
+                "ti promeniš",
+                "on/ona/ono promeni",
+                "mi promenimo",
+                "vi promenite",
+                "oni/one promene"
+            ],
+            "example_sentence": "Odlučio sam promeniti svoj život."
+        },
+        {
+            "verb": "podsetiti",
+            "translation": "to remind",
+            "present_conjugation": [
+                "ja podsetim",
+                "ti podsetiš",
+                "on/ona/ono podseti",
+                "mi podsetimo",
+                "vi podsetite",
+                "oni/one podsete"
+            ],
+            "example_sentence": "Podsetiću te na važan sastanak."
+        },
+        {
+            "verb": "iznajmiti",
+            "translation": "to rent",
+            "present_conjugation": [
+                "ja iznajmim",
+                "ti iznajmiš",
+                "on/ona/ono iznajmi",
+                "mi iznajmimo",
+                "vi iznajmite",
+                "oni/one iznajme"
+            ],
+            "example_sentence": "Iznajmio sam stan u centru grada."
+        },
+        {
+            "verb": "prodati",
+            "translation": "to sell",
+            "present_conjugation": [
+                "ja prodam",
+                "ti prodaš",
+                "on/ona/ono proda",
+                "mi prodamo",
+                "vi prodate",
+                "oni/one prodaju"
+            ],
+            "example_sentence": "Prodajem svoj stari automobil."
+        },
+        {
+            "verb": "naučiti",
+            "translation": "to learn",
+            "present_conjugation": [
+                "ja naučim",
+                "ti naučiš",
+                "on/ona/ono nauči",
+                "mi naučimo",
+                "vi naučite",
+                "oni/one nauče"
+            ],
+            "example_sentence": "Naučio sam novi jezik."
+        },
+        {
+            "verb": "otvoriti",
+            "translation": "to open",
+            "present_conjugation": [
+                "ja otvorim",
+                "ti otvoriš",
+                "on/ona/ono otvori",
+                "mi otvorimo",
+                "vi otvorite",
+                "oni/one otvore"
+            ],
+            "example_sentence": "Otvoriću prozor da uđe svež vazduh."
+        },
+        {
+            "verb": "proći",
+            "translation": "to pass",
+            "present_conjugation": [
+                "ja prođem",
+                "ti prođeš",
+                "on/ona/ono prođe",
+                "mi prođemo",
+                "vi prođete",
+                "oni/one prođu"
+            ],
+            "example_sentence": "Prošao sam kroz mnoge izazove u životu."
+        },
+        {
+            "verb": "ustati",
+            "translation": "to stand up",
+            "present_conjugation": [
+                "ja ustanem",
+                "ti ustaneš",
+                "on/ona/ono ustane",
+                "mi ustanemo",
+                "vi ustanete",
+                "oni/one ustanu"
+            ],
+            "example_sentence": "Ustajem svako jutro u 6 sati."
+        },
+        {
+            "verb": "proći kroz",
+            "translation": "to go through",
+            "present_conjugation": [
+                "ja prođem kroz",
+                "ti prođeš kroz",
+                "on/ona/ono prođe kroz",
+                "mi prođemo kroz",
+                "vi prođete kroz",
+                "oni/one prođu kroz"
+            ],
+            "example_sentence": "Moramo proći kroz mnogo dokumenata."
+        },
+        {
+            "verb": "vratiti se",
+            "translation": "to return (to a place)",
+            "present_conjugation": [
+                "ja se vratim",
+                "ti se vratiš",
+                "on/ona/ono se vrati",
+                "mi se vratimo",
+                "vi se vratite",
+                "oni/one se vrate"
+            ],
+            "example_sentence": "Vraćam se kući nakon posla."
+        },
+        {
+            "verb": "razmisliti",
+            "translation": "to think (carefully)",
+            "present_conjugation": [
+                "ja razmislim",
+                "ti razmisliš",
+                "on/ona/ono razmisli",
+                "mi razmislimo",
+                "vi razmislite",
+                "oni/one razmisle"
+            ],
+            "example_sentence": "Razmisliću o tome pre nego donesem odluku."
+        },
+        {
+            "verb": "posetiti",
+            "translation": "to visit",
+            "present_conjugation": [
+                "ja posetim",
+                "ti posetiš",
+                "on/ona/ono poseti",
+                "mi posetimo",
+                "vi posetite",
+                "oni/one posete"
+            ],
+            "example_sentence": "Planiram posetiti muzej sutra."
+        },
+        {
+            "verb": "razumeti se",
+            "translation": "to get along",
+            "present_conjugation": [
+                "ja se razumem",
+                "ti se razumeš",
+                "on/ona/ono se razume",
+                "mi se razumemo",
+                "vi se razumete",
+                "oni/one se razumeju"
+            ],
+            "example_sentence": "Dobro se razumemo kao tim."
+        },
+        {
+            "verb": "ćutati",
+            "translation": "to be silent",
+            "present_conjugation": [
+                "ja ćutim",
+                "ti ćutiš",
+                "on/ona/ono ćuti",
+                "mi ćutimo",
+                "vi ćutite",
+                "oni/one ćute"
+            ],
+            "example_sentence": "Molim te, ćuti dok govorim."
+        },
+        {
+            "verb": "poslati",
+            "translation": "to send",
+            "present_conjugation": [
+                "ja pošaljem",
+                "ti pošalješ",
+                "on/ona/ono pošalje",
+                "mi pošaljemo",
+                "vi pošaljete",
+                "oni/one pošalju"
+            ],
+            "example_sentence": "Sutra ću poslati e-mail sa dokumentima."
+        }
+    ]
+}

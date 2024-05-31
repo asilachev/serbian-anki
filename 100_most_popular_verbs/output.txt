@@ -1,0 +1,103 @@
+#separator:pipe
+#html:true
+#tags column:5
+biti|to be|"<ul><li>ja sam</li><li>ti si</li><li>on/ona/ono je</li><li>mi smo</li><li>vi ste</li><li>oni/one su</li></ul>"|Ja sam student.
+imati|to have|"<ul><li>ja imam</li><li>ti imaš</li><li>on/ona/ono ima</li><li>mi imamo</li><li>vi imate</li><li>oni/one imaju</li></ul>"|Ona ima novac.
+raditi|to work|"<ul><li>ja radim</li><li>ti radiš</li><li>on/ona/ono radi</li><li>mi radimo</li><li>vi radite</li><li>oni/one rade</li></ul>"|Mi radimo zajedno.
+govoriti|to speak|"<ul><li>ja govorim</li><li>ti govoriš</li><li>on/ona/ono govori</li><li>mi govorimo</li><li>vi govorite</li><li>oni/one govore</li></ul>"|Oni govore engleski.
+videti|to see|"<ul><li>ja vidim</li><li>ti vidiš</li><li>on/ona/ono vidi</li><li>mi vidimo</li><li>vi vidite</li><li>oni/one vide</li></ul>"|Ti vidiš pticu.
+voleti|to love|"<ul><li>ja volim</li><li>ti voliš</li><li>on/ona/ono voli</li><li>mi volimo</li><li>vi volite</li><li>oni/one vole</li></ul>"|On voli svoju porodicu.
+živeti|to live|"<ul><li>ja živim</li><li>ti živiš</li><li>on/ona/ono živi</li><li>mi živimo</li><li>vi živite</li><li>oni/one žive</li></ul>"|Mi živimo u Beogradu.
+putovati|to travel|"<ul><li>ja putujem</li><li>ti putuješ</li><li>on/ona/ono putuje</li><li>mi putujemo</li><li>vi putujete</li><li>oni/one putuju</li></ul>"|Oni putuju svetom.
+jesti|to eat|"<ul><li>ja jedem</li><li>ti jedeš</li><li>on/ona/ono jede</li><li>mi jedemo</li><li>vi jedete</li><li>oni/one jedu</li></ul>"|Mi jedemo doručak.
+piiti|to drink|"<ul><li>ja pijem</li><li>ti piješ</li><li>on/ona/ono pije</li><li>mi pijemo</li><li>vi pijete</li><li>oni/one piju</li></ul>"|Ti piješ vodu.
+znati|to know|"<ul><li>ja znam</li><li>ti znaš</li><li>on/ona/ono zna</li><li>mi znamo</li><li>vi znate</li><li>oni/one znaju</li></ul>"|On zna odgovor.
+čitati|to read|"<ul><li>ja čitam</li><li>ti čitaš</li><li>on/ona/ono čita</li><li>mi čitamo</li><li>vi čitate</li><li>oni/one čitaju</li></ul>"|Mi čitamo knjige.
+pisati|to write|"<ul><li>ja pišem</li><li>ti pišeš</li><li>on/ona/ono piše</li><li>mi pišemo</li><li>vi pišete</li><li>oni/one pišu</li></ul>"|Ona piše pismo.
+dolaziti|to come|"<ul><li>ja dolazim</li><li>ti dolaziš</li><li>on/ona/ono dolazi</li><li>mi dolazimo</li><li>vi dolazite</li><li>oni/one dolaze</li></ul>"|Mi dolazimo kasno.
+ići|to go|"<ul><li>ja idem</li><li>ti ideš</li><li>on/ona/ono ide</li><li>mi idemo</li><li>vi idete</li><li>oni/one idu</li></ul>"|Ti ideš u školu.
+spavati|to sleep|"<ul><li>ja spavam</li><li>ti spavaš</li><li>on/ona/ono spava</li><li>mi spavamo</li><li>vi spavate</li><li>oni/one spavaju</li></ul>"|Oni spavaju duboko.
+gledati|to watch|"<ul><li>ja gledam</li><li>ti gledaš</li><li>on/ona/ono gleda</li><li>mi gledamo</li><li>vi gledate</li><li>oni/one gledaju</li></ul>"|Ti gledaš televiziju.
+slušati|to listen|"<ul><li>ja slušam</li><li>ti slušaš</li><li>on/ona/ono sluša</li><li>mi slušamo</li><li>vi slušate</li><li>oni/one slušaju</li></ul>"|Mi slušamo muziku.
+trčati|to run|"<ul><li>ja trčim</li><li>ti trčiš</li><li>on/ona/ono trči</li><li>mi trčimo</li><li>vi trčite</li><li>oni/one trče</li></ul>"|Oni trče brzo.
+učiti|to learn|"<ul><li>ja učim</li><li>ti učiš</li><li>on/ona/ono uči</li><li>mi učimo</li><li>vi učite</li><li>oni/one uče</li></ul>"|Ona uči strane jezike.
+tražiti|to search|"<ul><li>ja tražim</li><li>ti tražiš</li><li>on/ona/ono traži</li><li>mi tražimo</li><li>vi tražite</li><li>oni/one traže</li></ul>"|Mi tražimo izgubljeni ključ.
+razmišljati|to think|"<ul><li>ja razmišljam</li><li>ti razmišljaš</li><li>on/ona/ono razmišlja</li><li>mi razmišljamo</li><li>vi razmišljate</li><li>oni/one razmišljaju</li></ul>"|Ja razmišljam o budućnosti.
+voziti|to drive|"<ul><li>ja vozim</li><li>ti voziš</li><li>on/ona/ono vozi</li><li>mi vozimo</li><li>vi vozite</li><li>oni/one voze</li></ul>"|Mi vozimo auto.
+leteti|to fly|"<ul><li>ja letim</li><li>ti letiš</li><li>on/ona/ono leti</li><li>mi letimo</li><li>vi letite</li><li>oni/one lete</li></ul>"|Ptice lete visoko.
+pevati|to sing|"<ul><li>ja pevam</li><li>ti pevaš</li><li>on/ona/ono peva</li><li>mi pevamo</li><li>vi pevate</li><li>oni/one pevaju</li></ul>"|Ona peva prelepo.
+plakati|to cry|"<ul><li>ja plačem</li><li>ti plačeš</li><li>on/ona/ono plače</li><li>mi plačemo</li><li>vi plačete</li><li>oni/one plaču</li></ul>"|Dečko plače od sreće.
+piti|to drink|"<ul><li>ja pijem</li><li>ti piješ</li><li>on/ona/ono pije</li><li>mi pijemo</li><li>vi pijete</li><li>oni/one piju</li></ul>"|Oni piju sok.
+nositi|to carry|"<ul><li>ja nosim</li><li>ti nosiš</li><li>on/ona/ono nosi</li><li>mi nosimo</li><li>vi nosite</li><li>oni/one nose</li></ul>"|Mi nosimo torbu.
+žuriti|to hurry|"<ul><li>ja žurim</li><li>ti žuriš</li><li>on/ona/ono žuri</li><li>mi žurimo</li><li>vi žurite</li><li>oni/one žure</li></ul>"|Morate žuriti na sastanak.
+razgovarati|to talk|"<ul><li>ja razgovaram</li><li>ti razgovaraš</li><li>on/ona/ono razgovara</li><li>mi razgovaramo</li><li>vi razgovarate</li><li>oni/one razgovaraju</li></ul>"|Mi razgovaramo o poslu.
+čekati|to wait|"<ul><li>ja čekam</li><li>ti čekaš</li><li>on/ona/ono čeka</li><li>mi čekamo</li><li>vi čekate</li><li>oni/one čekaju</li></ul>"|Oni čekaju na autobus.
+sanjati|to dream|"<ul><li>ja sanjam</li><li>ti sanjaš</li><li>on/ona/ono sanja</li><li>mi sanjamo</li><li>vi sanjate</li><li>oni/one sanjaju</li></ul>"|Ja sanjam o putovanju.
+pomagati|to help|"<ul><li>ja pomažem</li><li>ti pomažeš</li><li>on/ona/ono pomaže</li><li>mi pomažemo</li><li>vi pomažete</li><li>oni/one pomažu</li></ul>"|Ti pomažeš ljudima.
+smejati se|to laugh|"<ul><li>ja se smejem</li><li>ti se smeješ</li><li>on/ona/ono se smeje</li><li>mi se smejemo</li><li>vi se smejete</li><li>oni/one se smeju</li></ul>"|Mi se smejemo šali.
+razumeti|to understand|"<ul><li>ja razumem</li><li>ti razumeš</li><li>on/ona/ono razume</li><li>mi razumemo</li><li>vi razumete</li><li>oni/one razumeju</li></ul>"|Ja razumem ovu lekciju.
+dopasti se|to like (something)|"<ul><li>ja mi se dopada</li><li>ti ti se dopadaš</li><li>on/ona/ono se dopada</li><li>mi nam se dopadamo</li><li>vi vam se dopadate</li><li>oni/one im se dopadaju</li></ul>"|Ova knjiga mi se dopada.
+prestati|to stop|"<ul><li>ja prestajem</li><li>ti prestaješ</li><li>on/ona/ono prestaje</li><li>mi prestajemo</li><li>vi prestajete</li><li>oni/one prestaju</li></ul>"|Prestani da brineš.
+sresti|to meet|"<ul><li>ja srećem</li><li>ti srećeš</li><li>on/ona/ono sreće</li><li>mi srećemo</li><li>vi srećete</li><li>oni/one sreću</li></ul>"|Sreli smo se u parku.
+stići|to arrive|"<ul><li>ja stižem</li><li>ti stižeš</li><li>on/ona/ono stiže</li><li>mi stižemo</li><li>vi stižete</li><li>oni/one stižu</li></ul>"|Oni stižu za pet minuta.
+plesati|to dance|"<ul><li>ja plešem</li><li>ti plešeš</li><li>on/ona/ono pleše</li><li>mi plešemo</li><li>vi plešete</li><li>oni/one plešu</li></ul>"|Mi plešemo na zabavi.
+praviti|to make|"<ul><li>ja pravim</li><li>ti praviš</li><li>on/ona/ono pravi</li><li>mi pravimo</li><li>vi pravite</li><li>oni/one prave</li></ul>"|Oni prave kolače.
+zvati|to call|"<ul><li>ja zovem</li><li>ti zoveš</li><li>on/ona/ono zove</li><li>mi zovemo</li><li>vi zovete</li><li>oni/one zovu</li></ul>"|Ti zoveš svoju prijateljicu.
+doći|to come|"<ul><li>ja dođem</li><li>ti dođeš</li><li>on/ona/ono dođe</li><li>mi dođemo</li><li>vi dođete</li><li>oni/one dođu</li></ul>"|Oni dođu na vreme.
+smeštati|to accommodate|"<ul><li>ja smeštam</li><li>ti smeštaš</li><li>on/ona/ono smešta</li><li>mi smeštamo</li><li>vi smeštate</li><li>oni/one smeštaju</li></ul>"|Hotel smešta goste.
+učiti se|to study|"<ul><li>ja se učim</li><li>ti se učiš</li><li>on/ona/ono se uči</li><li>mi se učimo</li><li>vi se učite</li><li>oni/one se uče</li></ul>"|Studiram medicinu.
+praviti se|to pretend|"<ul><li>ja se pravim</li><li>ti se praviš</li><li>on/ona/ono se pravi</li><li>mi se pravimo</li><li>vi se pravite</li><li>oni/one se prave</li></ul>"|Ona se pravi da spava.
+odgovarati|to fit|"<ul><li>ja odgovaram</li><li>ti odgovaraš</li><li>on/ona/ono odgovara</li><li>mi odgovaramo</li><li>vi odgovarate</li><li>oni/one odgovaraju</li></ul>"|Ova haljina mi odgovara.
+voziti se|to ride|"<ul><li>ja se vozim</li><li>ti se voziš</li><li>on/ona/ono se vozi</li><li>mi se vozimo</li><li>vi se vozite</li><li>oni/one se voze</li></ul>"|Deca se voze biciklima.
+otvarati|to open|"<ul><li>ja otvaram</li><li>ti otvaraš</li><li>on/ona/ono otvara</li><li>mi otvaramo</li><li>vi otvarate</li><li>oni/one otvaraju</li></ul>"|Otvaram prozor.
+dobiti|to get|"<ul><li>ja dobijam</li><li>ti dobijaš</li><li>on/ona/ono dobija</li><li>mi dobijamo</li><li>vi dobijate</li><li>oni/one dobijaju</li></ul>"|Dobio sam poklon.
+smeštati se|to fit in|"<ul><li>ja se smeštam</li><li>ti se smeštaš</li><li>on/ona/ono se smešta</li><li>mi se smeštamo</li><li>vi se smeštate</li><li>oni/one se smeštaju</li></ul>"|Trudim se da se uklopim.
+pričati|to talk|"<ul><li>ja pričam</li><li>ti pričaš</li><li>on/ona/ono priča</li><li>mi pričamo</li><li>vi pričate</li><li>oni/one pričaju</li></ul>"|Pričam sa kolegom.
+zamišljati|to imagine|"<ul><li>ja zamišljam</li><li>ti zamišljaš</li><li>on/ona/ono zamišlja</li><li>mi zamišljamo</li><li>vi zamišljate</li><li>oni/one zamišljaju</li></ul>"|Deca vole da zamišljaju avanture.
+truditi se|to make an effort|"<ul><li>ja se trudim</li><li>ti se trudiš</li><li>on/ona/ono se trudi</li><li>mi se trudimo</li><li>vi se trudite</li><li>oni/one se trude</li></ul>"|Trudim se da budem bolji svaki dan.
+dozvoljavati|to allow|"<ul><li>ja dozvoljavam</li><li>ti dozvoljavaš</li><li>on/ona/ono dozvoljava</li><li>mi dozvoljavamo</li><li>vi dozvoljavate</li><li>oni/one dozvoljavaju</li></ul>"|Roditelji dozvoljavaju deci da igraju video igre.
+plašiti se|to be afraid|"<ul><li>ja se plašim</li><li>ti se plašiš</li><li>on/ona/ono se plaši</li><li>mi se plašimo</li><li>vi se plašite</li><li>oni/one se plaše</li></ul>"|On se plaši mraka.
+nastaviti|to continue|"<ul><li>ja nastavljam</li><li>ti nastavljaš</li><li>on/ona/ono nastavlja</li><li>mi nastavljamo</li><li>vi nastavljate</li><li>oni/one nastavljaju</li></ul>"|Nastavljamo putovanje.
+pogoditi|to hit|"<ul><li>ja pogodim</li><li>ti pogodiš</li><li>on/ona/ono pogodi</li><li>mi pogodimo</li><li>vi pogodite</li><li>oni/one pogode</li></ul>"|Strelac pogodi metu.
+voditi|to lead|"<ul><li>ja vodim</li><li>ti vodiš</li><li>on/ona/ono vodi</li><li>mi vodimo</li><li>vi vodite</li><li>oni/one vode</li></ul>"|On vodi tim.
+oblačiti se|to dress|"<ul><li>ja se oblačim</li><li>ti se oblačiš</li><li>on/ona/ono se oblači</li><li>mi se oblačimo</li><li>vi se oblačite</li><li>oni/one se oblače</li></ul>"|Spremam se i oblačim za posao.
+šetati|to walk|"<ul><li>ja šetam</li><li>ti šetaš</li><li>on/ona/ono šeta</li><li>mi šetamo</li><li>vi šetate</li><li>oni/one šetaju</li></ul>"|Šetam se parkom svakog jutra.
+razgovarati se|to chat|"<ul><li>ja se razgovaram</li><li>ti se razgovaraš</li><li>on/ona/ono se razgovara</li><li>mi se razgovaramo</li><li>vi se razgovarate</li><li>oni/one se razgovaraju</li></ul>"|Razgovaramo se sa starim prijateljima.
+pridružiti se|to join|"<ul><li>ja se pridružujem</li><li>ti se pridružuješ</li><li>on/ona/ono se pridružuje</li><li>mi se pridružujemo</li><li>vi se pridružujete</li><li>oni/one se pridružuju</li></ul>"|Odlučio sam se pridružiti timu.
+završiti|to finish|"<ul><li>ja završavam</li><li>ti završavaš</li><li>on/ona/ono završava</li><li>mi završavamo</li><li>vi završavate</li><li>oni/one završavaju</li></ul>"|Završavam svoj posao.
+pomisliti|to think|"<ul><li>ja pomislim</li><li>ti pomisliš</li><li>on/ona/ono pomisli</li><li>mi pomislimo</li><li>vi pomislite</li><li>oni/one pomisle</li></ul>"|Pomislio sam na tebe.
+zamisliti|to imagine|"<ul><li>ja zamislim</li><li>ti zamisliš</li><li>on/ona/ono zamisli</li><li>mi zamislimo</li><li>vi zamislite</li><li>oni/one zamisle</li></ul>"|Zamislio sam čaroban svet.
+otkriti|to discover|"<ul><li>ja otkrivam</li><li>ti otkrivaš</li><li>on/ona/ono otkriva</li><li>mi otkrivamo</li><li>vi otkrivate</li><li>oni/one otkrivaju</li></ul>"|Otkrio sam tajnu.
+primiti|to receive|"<ul><li>ja primam</li><li>ti primaš</li><li>on/ona/ono prima</li><li>mi primamo</li><li>vi primate</li><li>oni/one primaju</li></ul>"|Primio sam pismo.
+sresti se|to meet (each other)|"<ul><li>ja se sretnem</li><li>ti se sretneš</li><li>on/ona/ono se sretne</li><li>mi se sretnemo</li><li>vi se sretnete</li><li>oni/one se sretnu</li></ul>"|Sretneš se sa starim prijateljem.
+doći do|to reach|"<ul><li>ja dođem do</li><li>ti dođeš do</li><li>on/ona/ono dođe do</li><li>mi dođemo do</li><li>vi dođete do</li><li>oni/one dođu do</li></ul>"|Konačno sam došao do rešenja.
+izgubiti|to lose|"<ul><li>ja izgubim</li><li>ti izgubiš</li><li>on/ona/ono izgubi</li><li>mi izgubimo</li><li>vi izgubite</li><li>oni/one izgube</li></ul>"|Nisam želeo izgubiti tu igru.
+vratiti|to return|"<ul><li>ja vratim</li><li>ti vratiš</li><li>on/ona/ono vrati</li><li>mi vratimo</li><li>vi vratite</li><li>oni/one vrate</li></ul>"|Sutra ću vratiti knjigu u biblioteku.
+zaboraviti|to forget|"<ul><li>ja zaboravim</li><li>ti zaboraviš</li><li>on/ona/ono zaboravi</li><li>mi zaboravimo</li><li>vi zaboravite</li><li>oni/one zaborave</li></ul>"|Ne želim zaboraviti tvoj rođendan.
+početi|to begin|"<ul><li>ja počnem</li><li>ti počneš</li><li>on/ona/ono počne</li><li>mi počnemo</li><li>vi počnete</li><li>oni/one počnu</li></ul>"|Počnemo sutra sa radom na projektu.
+smetati|to disturb|"<ul><li>ja smetam</li><li>ti smetaš</li><li>on/ona/ono smeta</li><li>mi smetamo</li><li>vi smetate</li><li>oni/one smetaju</li></ul>"|Molim te, ne smetaj mi dok radim.
+naručiti|to order|"<ul><li>ja naručim</li><li>ti naručiš</li><li>on/ona/ono naruči</li><li>mi naručimo</li><li>vi naručite</li><li>oni/one naruče</li></ul>"|Naručiću picu za večeru.
+zamoliti|to ask (for a favor)|"<ul><li>ja zamolim</li><li>ti zamoliš</li><li>on/ona/ono zamoli</li><li>mi zamolimo</li><li>vi zamolite</li><li>oni/one zamole</li></ul>"|Molim te, možeš li mi pomoći?
+izdati|to betray|"<ul><li>ja izdam</li><li>ti izdaš</li><li>on/ona/ono izda</li><li>mi izdamo</li><li>vi izdate</li><li>oni/one izdaju</li></ul>"|Nikada ne bih izdao svoje prijatelje.
+nasmejati se|to smile|"<ul><li>ja se nasmejem</li><li>ti se nasmeješ</li><li>on/ona/ono se nasmeje</li><li>mi se nasmejemo</li><li>vi se nasmejete</li><li>oni/one se nasmeju</li></ul>"|Kada me pogledaš, uvek se nasmejem.
+upisati|to enroll|"<ul><li>ja upišem</li><li>ti upišeš</li><li>on/ona/ono upiše</li><li>mi upišemo</li><li>vi upišete</li><li>oni/one upišu</li></ul>"|Planiram upisati kurs španskog jezika.
+izabrati|to choose|"<ul><li>ja izaberem</li><li>ti izabereš</li><li>on/ona/ono izabere</li><li>mi izaberemo</li><li>vi izaberete</li><li>oni/one izaberu</li></ul>"|Izabrao sam najbolju opciju.
+suditi|to judge|"<ul><li>ja sudim</li><li>ti sudiš</li><li>on/ona/ono sudi</li><li>mi sudimo</li><li>vi sudite</li><li>oni/one sude</li></ul>"|Sudimo po zakonu.
+pratiti|to follow|"<ul><li>ja pratim</li><li>ti pratiš</li><li>on/ona/ono prati</li><li>mi pratimo</li><li>vi pratite</li><li>oni/one prate</li></ul>"|Pratim te na društvenim mrežama.
+služiti|to serve|"<ul><li>ja služim</li><li>ti služiš</li><li>on/ona/ono služi</li><li>mi služimo</li><li>vi služite</li><li>oni/one služe</li></ul>"|Konobar služi goste u restoranu.
+pronaći|to find|"<ul><li>ja pronađem</li><li>ti pronađeš</li><li>on/ona/ono pronađe</li><li>mi pronađemo</li><li>vi pronađete</li><li>oni/one pronađu</li></ul>"|Napokon sam pronašao ključeve.
+promeniti|to change|"<ul><li>ja promenim</li><li>ti promeniš</li><li>on/ona/ono promeni</li><li>mi promenimo</li><li>vi promenite</li><li>oni/one promene</li></ul>"|Odlučio sam promeniti svoj život.
+podsetiti|to remind|"<ul><li>ja podsetim</li><li>ti podsetiš</li><li>on/ona/ono podseti</li><li>mi podsetimo</li><li>vi podsetite</li><li>oni/one podsete</li></ul>"|Podsetiću te na važan sastanak.
+iznajmiti|to rent|"<ul><li>ja iznajmim</li><li>ti iznajmiš</li><li>on/ona/ono iznajmi</li><li>mi iznajmimo</li><li>vi iznajmite</li><li>oni/one iznajme</li></ul>"|Iznajmio sam stan u centru grada.
+prodati|to sell|"<ul><li>ja prodam</li><li>ti prodaš</li><li>on/ona/ono proda</li><li>mi prodamo</li><li>vi prodate</li><li>oni/one prodaju</li></ul>"|Prodajem svoj stari automobil.
+naučiti|to learn|"<ul><li>ja naučim</li><li>ti naučiš</li><li>on/ona/ono nauči</li><li>mi naučimo</li><li>vi naučite</li><li>oni/one nauče</li></ul>"|Naučio sam novi jezik.
+otvoriti|to open|"<ul><li>ja otvorim</li><li>ti otvoriš</li><li>on/ona/ono otvori</li><li>mi otvorimo</li><li>vi otvorite</li><li>oni/one otvore</li></ul>"|Otvoriću prozor da uđe svež vazduh.
+proći|to pass|"<ul><li>ja prođem</li><li>ti prođeš</li><li>on/ona/ono prođe</li><li>mi prođemo</li><li>vi prođete</li><li>oni/one prođu</li></ul>"|Prošao sam kroz mnoge izazove u životu.
+ustati|to stand up|"<ul><li>ja ustanem</li><li>ti ustaneš</li><li>on/ona/ono ustane</li><li>mi ustanemo</li><li>vi ustanete</li><li>oni/one ustanu</li></ul>"|Ustajem svako jutro u 6 sati.
+proći kroz|to go through|"<ul><li>ja prođem kroz</li><li>ti prođeš kroz</li><li>on/ona/ono prođe kroz</li><li>mi prođemo kroz</li><li>vi prođete kroz</li><li>oni/one prođu kroz</li></ul>"|Moramo proći kroz mnogo dokumenata.
+vratiti se|to return (to a place)|"<ul><li>ja se vratim</li><li>ti se vratiš</li><li>on/ona/ono se vrati</li><li>mi se vratimo</li><li>vi se vratite</li><li>oni/one se vrate</li></ul>"|Vraćam se kući nakon posla.
+razmisliti|to think (carefully)|"<ul><li>ja razmislim</li><li>ti razmisliš</li><li>on/ona/ono razmisli</li><li>mi razmislimo</li><li>vi razmislite</li><li>oni/one razmisle</li></ul>"|Razmisliću o tome pre nego donesem odluku.
+posetiti|to visit|"<ul><li>ja posetim</li><li>ti posetiš</li><li>on/ona/ono poseti</li><li>mi posetimo</li><li>vi posetite</li><li>oni/one posete</li></ul>"|Planiram posetiti muzej sutra.
+razumeti se|to get along|"<ul><li>ja se razumem</li><li>ti se razumeš</li><li>on/ona/ono se razume</li><li>mi se razumemo</li><li>vi se razumete</li><li>oni/one se razumeju</li></ul>"|Dobro se razumemo kao tim.
+ćutati|to be silent|"<ul><li>ja ćutim</li><li>ti ćutiš</li><li>on/ona/ono ćuti</li><li>mi ćutimo</li><li>vi ćutite</li><li>oni/one ćute</li></ul>"|Molim te, ćuti dok govorim.
+poslati|to send|"<ul><li>ja pošaljem</li><li>ti pošalješ</li><li>on/ona/ono pošalje</li><li>mi pošaljemo</li><li>vi pošaljete</li><li>oni/one pošalju</li></ul>"|Sutra ću poslati e-mail sa dokumentima.
