@@ -1,6 +1,7 @@
 import json
 
 content = None
+# TODO: Move source to params
 with open('source.json') as f:
     content = f.read()
 
@@ -25,6 +26,7 @@ for r in result:
     str = f'{r["verb"]}|{r["translation"]}|"<ul>{"".join(ul_content)}</ul>"|{r["example_sentence"]}'
     result_anki += f'{str}\n'
 
+# TODO: Move output to params
 with open('output.txt', 'w') as f:
     f.write(result_anki)
 
